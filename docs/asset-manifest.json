@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/adventure-react/static/css/main.ee2dd42d.chunk.css",
+    "main.css": "/adventure-react/static/css/main.eae0f05f.chunk.css",
     "main.js": "/adventure-react/static/js/main.23bf8e18.chunk.js",
     "main.js.map": "/adventure-react/static/js/main.23bf8e18.chunk.js.map",
     "runtime-main.js": "/adventure-react/static/js/runtime-main.01e5c5d5.js",
@@ -8,15 +8,15 @@
     "static/js/2.4d8c1992.chunk.js": "/adventure-react/static/js/2.4d8c1992.chunk.js",
     "static/js/2.4d8c1992.chunk.js.map": "/adventure-react/static/js/2.4d8c1992.chunk.js.map",
     "index.html": "/adventure-react/index.html",
-    "precache-manifest.06ddcd49c157a0b3fcbf35a73670fee8.js": "/adventure-react/precache-manifest.06ddcd49c157a0b3fcbf35a73670fee8.js",
+    "precache-manifest.e34837d2b368c83f67afbf06a4d3f3fe.js": "/adventure-react/precache-manifest.e34837d2b368c83f67afbf06a4d3f3fe.js",
     "service-worker.js": "/adventure-react/service-worker.js",
-    "static/css/main.ee2dd42d.chunk.css.map": "/adventure-react/static/css/main.ee2dd42d.chunk.css.map",
+    "static/css/main.eae0f05f.chunk.css.map": "/adventure-react/static/css/main.eae0f05f.chunk.css.map",
     "static/js/2.4d8c1992.chunk.js.LICENSE.txt": "/adventure-react/static/js/2.4d8c1992.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.01e5c5d5.js",
     "static/js/2.4d8c1992.chunk.js",
-    "static/css/main.ee2dd42d.chunk.css",
+    "static/css/main.eae0f05f.chunk.css",
     "static/js/main.23bf8e18.chunk.js"
   ]
 }
