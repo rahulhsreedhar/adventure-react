@@ -33,7 +33,7 @@ function Navbar() {
                     <Link to="/" 
                     className="navbar-logo" 
                     onClick={closeMobileMenu}>
-                        RHS s
+                        RHS ss
                         <i className='fab fa-typo3' />
                     </Link>
                     <div className='menu-icon' 
