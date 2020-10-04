@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55a5a27138e8699274652eb55f78d782",
+    "revision": "0034a2f8917d8b8706e194ef8a9ac9e4",
     "url": "/adventure-react/index.html"
   },
   {
-    "revision": "aabd954978193bf18c4a",
+    "revision": "7ab35f471198e0e1f12f",
     "url": "/adventure-react/static/css/main.eae0f05f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure-react/static/js/2.4d8c1992.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aabd954978193bf18c4a",
-    "url": "/adventure-react/static/js/main.e23699dd.chunk.js"
+    "revision": "7ab35f471198e0e1f12f",
+    "url": "/adventure-react/static/js/main.b5b3ebe4.chunk.js"
   },
   {
     "revision": "4a1b370a1d83df669bc8",

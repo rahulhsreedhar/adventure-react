@@ -30,7 +30,7 @@ function Navbar() {
         <>
             <nav className="navbar">
                 <div className="navbar-container">
-                    <Link to="/" 
+                    <Link to="/adventure-react/" 
                     className="navbar-logo" 
                     onClick={closeMobileMenu}>
                         RHS 
@@ -49,17 +49,17 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/services' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/adventure-react/services' className='nav-links' onClick={closeMobileMenu}>
                                 Services
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/products' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/adventure-react/products' className='nav-links' onClick={closeMobileMenu}>
                                 Products
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/sign-up' className='nav-links-mobile' onClick={closeMobileMenu}>
+                            <Link to='/adventure-react/sign-up' className='nav-links-mobile' onClick={closeMobileMenu}>
                                 Sign up
                             </Link>
                         </li>
